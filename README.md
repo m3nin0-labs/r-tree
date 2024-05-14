@@ -1,4 +1,4 @@
-## r-tree
+## r-tree 🌳
 
 Implementation of the [R-Tree](https://dl.acm.org/doi/10.1145/971697.602266) data structure.
 
